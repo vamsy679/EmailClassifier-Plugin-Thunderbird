@@ -1,8 +1,8 @@
-# EClassify
+# Thunderbird Email Client Plugin and Classifier
 
 ## Features
 
-- **Automatic Email Classification**: Leverages ML Models to classify emails.
+- **Automatic Email Classification**: ML Models to classify emails.
 - **User-Friendly Interface**: Easy to use with a minimal learning curve.
 
 ## Installation
@@ -16,7 +16,7 @@
 
 ### To install EClassify Backend:
 
-1. Download the BERT Model from here https://drive.google.com/file/d/1zIOcVWpkB5aFEb3S3yEAAIc_LasyByKT/view?usp=drive_link.
+1. Download the BERT Model : https://drive.google.com/file/d/1zIOcVWpkB5aFEb3S3yEAAIc_LasyByKT/view?usp=drive_link.
 2. Place it in the Models folder in the backend folder.
 3. Create virtual env and activate the venv.
 4. Install the requirements `pip install requirements.txt`.
