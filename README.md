@@ -16,8 +16,8 @@
 
 ### To install Backend:
 
-1. Download the BERT Model : https://drive.google.com/file/d/1zIOcVWpkB5aFEb3S3yEAAIc_LasyByKT/view?usp=drive_link.
-2. Place it in the Models folder in the backend folder.
+1. To access the BERT Model contact the admin (vamsy679)
+2. Place file in the Models folder in the backend folder.
 3. Create virtual env and activate the venv.
 4. Install the requirements `pip install requirements.txt`.
 5. Run the FASTAPI using `uvicorn main:app --host 127.0.0.1 --port 8000`.
