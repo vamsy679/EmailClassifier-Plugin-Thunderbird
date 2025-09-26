@@ -1,4 +1,4 @@
-# Thunderbird Email Client Plugin and Classifier
+# Thunderbird Email Client Plugin and Classifier 
 
 ## Features
 
@@ -7,14 +7,14 @@
 
 ## Installation
 
-### To install EClassify on your Thunderbird client:
+### To install on your Thunderbird client:
 
 1. Open Thunderbird and go to `Add-ons and Themes`.
 2. Click on the gear icon and select `Install Add-on From File`.
 3. Navigate to the downloaded `.xpi` file and select it.
 4. Follow the prompts to install the add-on.
 
-### To install EClassify Backend:
+### To install Backend:
 
 1. Download the BERT Model : https://drive.google.com/file/d/1zIOcVWpkB5aFEb3S3yEAAIc_LasyByKT/view?usp=drive_link.
 2. Place it in the Models folder in the backend folder.
